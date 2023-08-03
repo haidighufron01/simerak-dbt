@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: postgre_source
+    database: sipening
+    schema: public
+    tables:
+      - name: inforeklogview_sipening_info_rekening
